@@ -1,0 +1,3588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Soup v2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-06-02 13:17:48+0000\n"
+"Last-Translator: admin <stalukder03@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ soup
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+#@ soup
+msgid "It looks like nothing was found at this location. Please try the links below."
+msgstr ""
+
+#: 404.php:23
+#@ soup
+msgid "Home"
+msgstr ""
+
+#: comments.php:29
+#@ soup
+msgid "Comments"
+msgstr ""
+
+#: comments.php:33
+#: comments.php:49
+#@ soup
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:34
+#: comments.php:50
+#@ soup
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:62
+#@ soup
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:43
+#: footer.php:60
+#: lib/theme-config/config-redux/_custom-config.php:51
+#: lib/theme-config/config-redux/_custom-config.php:53
+#: lib/theme-config/config-redux/_custom-config.php:60
+#: lib/theme-config/config-redux/_custom-config.php:62
+#: lib/theme-core-functions/_helpers.php:56
+#: lib/theme-core-functions/_helpers.php:254
+#: lib/theme-core-functions/_helpers.php:269
+#: lib/theme-core-functions/_helpers.php:320
+#: lib/theme-core-functions/_helpers.php:335
+#, php-format
+#@ soup
+msgid "%s"
+msgstr ""
+
+#: footer.php:64
+#@ soup
+msgid "Footer Logo"
+msgstr ""
+
+#: footer.php:84
+#@ soup
+msgid "Your Cart"
+msgstr ""
+
+#: footer.php:89
+#@ soup
+msgid "Go to checkout"
+msgstr ""
+
+#: footer.php:96
+#: header.php:56
+#: header.php:89
+#: lib/theme-config/config-cmb2/metabox-config.php:24
+#@ soup
+msgid "Logo"
+msgstr ""
+
+#: footer.php:110
+#@ soup
+msgid "Follow Us!"
+msgstr ""
+
+#: footer.php:142
+#@ soup
+msgid "Added"
+msgstr ""
+
+#: functions.php:129
+#@ soup
+msgid "Invalid Input"
+msgstr ""
+
+#: functions.php:142
+#@ soup
+msgid "Specify your dish"
+msgstr ""
+
+#: functions.php:150
+#@ soup
+msgid "soup wordpress theme"
+msgstr ""
+
+#: functions.php:170
+#@ soup
+msgid "No posts found"
+msgstr ""
+
+#: header/banner.php:15
+#: single-offers.php:65
+#@ soup
+msgid "Banner"
+msgstr ""
+
+#: header/video.php:14
+#: header/video.php:16
+#@ soup
+msgid "video logo"
+msgstr ""
+
+#: inc/_woo.php:33
+#: inc/_woo.php:49
+#: inc/_woo.php:105
+#@ soup
+msgid "Delivery"
+msgstr ""
+
+#: inc/_woo.php:41
+#@ soup
+msgid "Take Away"
+msgstr ""
+
+#: inc/_woo.php:55
+#@ soup
+msgid "Date & Time"
+msgstr ""
+
+#: inc/_woo.php:71
+#: inc/_woo.php:74
+#@ soup
+msgid "Please enter your XXX."
+msgstr ""
+
+#: inc/_woo.php:96
+#@ soup
+msgid "Delivery Time"
+msgstr ""
+
+#: inc/_woo.php:97
+#@ soup
+msgid "Delivery Type"
+msgstr ""
+
+#: inc/_woo.php:106
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2549
+#@ soup
+msgid "Type"
+msgstr ""
+
+#: inc/_woo.php:107
+#@ soup
+msgid "Time"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: inc/megamenu/soup-edit-walker.php:185
+#@ soup
+msgid "Move up"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:211
+#@ soup
+msgid "Move down"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:215
+#: inc/megamenu/soup-edit-walker.php:219
+#@ soup
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:237
+#@ soup
+msgid "URL"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:251
+#@ soup
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:265
+#@ soup
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:275
+#@ soup
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:287
+#@ soup
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:299
+#@ soup
+msgid "Description"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:303
+#@ soup
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:322
+#@ soup
+msgid "Enable Border Style"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:334
+#@ soup
+msgid "Enable Image"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:337
+#@ soup
+msgid "Image are applicable only for 1 level dropdown menu."
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:345
+#@ soup
+msgid "Upload"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:346
+#: inc/megamenu/soup-edit-walker.php:390
+#@ soup
+msgid "Remove"
+msgstr ""
+
+#: inc/megamenu/soup-edit-walker.php:392
+#@ soup
+msgid "Cancel"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:55
+#, php-format
+#@ soup
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:17
+#@ soup
+msgid "Header Settings"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:28
+#: lib/theme-config/config-redux/redux-config.php:465
+#@ soup
+msgid "Show"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:29
+#: lib/theme-config/config-redux/redux-config.php:466
+#@ soup
+msgid "Hide"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:32
+#@ soup
+msgid "You can dsiplay or hide the logo for specifice page using this option."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:36
+#@ soup
+msgid "Banner Type"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:40
+#: vc_extend/extend_vc.php:67
+#: vc_extend/extend_vc.php:449
+#: vc_extend/extend_vc.php:972
+#@ soup
+msgid "Image"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:41
+#@ soup
+msgid "Color"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:42
+#@ soup
+msgid "Post Slider"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:43
+#@ soup
+msgid "Rev Slider"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:44
+#@ soup
+msgid "Video"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:45
+#: lib/theme-core-functions/_helpers.php:405
+#@ soup
+msgid "None"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:51
+#@ soup
+msgid "Slider Style"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:55
+#@ soup
+msgid "Box Style"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:56
+#@ soup
+msgid "Fullwidth Style"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:61
+#@ soup
+msgid "Slider Category"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:63
+#@ soup
+msgid "Select a slider category to disiplay slider from your specified category."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:69
+#: lib/theme-config/config-redux/redux-config.php:541
+#: lib/theme-config/config-redux/redux-config.php:651
+#: lib/theme-config/config-redux/redux-config.php:695
+#: lib/theme-config/config-redux/redux-config.php:740
+#: lib/theme-config/config-redux/redux-config.php:878
+#@ soup
+msgid "Banner Image"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:71
+#@ soup
+msgid "Upload individual page banner"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:75
+#@ soup
+msgid "Banner Bg Color"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:77
+#@ soup
+msgid "Pick a color for banner."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:82
+#@ soup
+msgid "Banner Text Color"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:84
+#@ soup
+msgid "Pick a color for banner text."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:106
+#@ soup
+msgid "No Alias found"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:109
+#@ soup
+msgid "Rev Slider Alias"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:114
+#@ soup
+msgid "Select any One, Which One You want to display"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:120
+#: lib/theme-config/config-redux/redux-config.php:726
+#: lib/theme-config/config-redux/redux-config.php:864
+#@ soup
+msgid "Banner Title"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:122
+#@ soup
+msgid "Write banner title here. if keep empty then will display the default page title"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:127
+#: lib/theme-config/config-redux/redux-config.php:733
+#: lib/theme-config/config-redux/redux-config.php:871
+#@ soup
+msgid "Banner Sub Title"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:129
+#@ soup
+msgid "Write banner sub title here. if keep empty then will display nothing."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:133
+#@ soup
+msgid "Video Logo"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:135
+#@ soup
+msgid "Upload an image from here.."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:139
+#: vc_extend/extend_vc.php:75
+#: vc_extend/extend_vc.php:338
+#: vc_extend/extend_vc.php:360
+#: vc_extend/extend_vc.php:457
+#: vc_extend/extend_vc.php:828
+#: vc_extend/extend_vc.php:902
+#: vc_extend/extend_vc.php:965
+#: vc_extend/extend_vc.php:1029
+#@ soup
+msgid "Title"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:141
+#@ soup
+msgid "Write title here.."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:145
+#: vc_extend/extend_vc.php:465
+#: vc_extend/extend_vc.php:910
+#: vc_extend/extend_vc.php:1037
+#@ soup
+msgid "Sub Title"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:147
+#: vc_extend/extend_vc.php:469
+#: vc_extend/extend_vc.php:1041
+#@ soup
+msgid "Write sub title here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:151
+#@ soup
+msgid "Background Video Url"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:153
+#@ soup
+msgid "Input youtube video url."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:157
+#: lib/theme-config/config-cmb2/metabox-config.php:276
+#: vc_extend/extend_vc.php:39
+#@ soup
+msgid "Button Text"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:159
+#: lib/theme-config/config-cmb2/metabox-config.php:278
+#: vc_extend/extend_vc.php:43
+#: vc_extend/extend_vc.php:95
+#: vc_extend/extend_vc.php:111
+#@ soup
+msgid "Write button text here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:163
+#: lib/theme-config/config-cmb2/metabox-config.php:283
+#: vc_extend/extend_vc.php:47
+#: vc_extend/extend_vc.php:297
+#: vc_extend/extend_vc.php:1272
+#@ soup
+msgid "Button Link"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:165
+#@ soup
+msgid "Write button link here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:174
+#@ soup
+msgid "Footer Settings"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:181
+#: lib/theme-config/config-redux/redux-config.php:1072
+#@ soup
+msgid "Footer Style"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:185
+#: lib/theme-config/config-redux/redux-config.php:1074
+#@ soup
+msgid "Style One"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:186
+#: lib/theme-config/config-redux/redux-config.php:1075
+#@ soup
+msgid "Style Two"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:188
+#@ soup
+msgid "Select any one above of them"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:198
+#@ soup
+msgid "Post Sidebar"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:207
+#@ soup
+msgid "Sidebar Type"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:209
+#: lib/theme-config/config-cmb2/metabox-config.php:235
+#: lib/theme-config/config-cmb2/metabox-config.php:267
+#@ soup
+msgid "Select any one. which you want to display"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:213
+#@ soup
+msgid "Left Sidebar"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:214
+#@ soup
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:215
+#: lib/theme-config/config-redux/redux-config.php:320
+#@ soup
+msgid "Box Width"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:216
+#: lib/theme-config/config-redux/redux-config.php:319
+#@ soup
+msgid "Full Width"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:224
+#@ soup
+msgid "Body Color Options"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:233
+#@ soup
+msgid "Select Color"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:239
+#@ soup
+msgid "Light"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:240
+#@ soup
+msgid "Light Dark"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:248
+#@ soup
+msgid "Slider Options"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:257
+#: vc_extend/extend_vc.php:83
+#@ soup
+msgid "Subtitle"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:259
+#: vc_extend/extend_vc.php:914
+#@ soup
+msgid "Write subtitle here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:265
+#@ soup
+msgid "Subtitle Position"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:271
+#@ soup
+msgid "Top of Title"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:272
+#@ soup
+msgid "Bellow of Title"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:285
+#: vc_extend/extend_vc.php:51
+#: vc_extend/extend_vc.php:103
+#: vc_extend/extend_vc.php:119
+#: vc_extend/extend_vc.php:299
+#: vc_extend/extend_vc.php:1276
+#@ soup
+msgid "Input button link here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:295
+#@ soup
+msgid "Reviews Options"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:304
+#@ soup
+msgid "Avatar"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:306
+#@ soup
+msgid "Upload avatar image here. If not upload image then will show the gravatar image instead via email."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:311
+#@ soup
+msgid "Company"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:313
+#@ soup
+msgid "Write your company name here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:318
+#@ soup
+msgid "Email"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:320
+#@ soup
+msgid "Write your email here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:325
+#@ soup
+msgid "Your Rating"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:327
+#: vc_extend/extend_vc.php:824
+#@ soup
+msgid "Provide your rating."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:331
+#: vc_extend/extend_vc.php:241
+#: vc_extend/extend_vc.php:817
+#@ soup
+msgid "1"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:332
+#: vc_extend/extend_vc.php:242
+#: vc_extend/extend_vc.php:818
+#@ soup
+msgid "2"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:333
+#: vc_extend/extend_vc.php:243
+#: vc_extend/extend_vc.php:819
+#@ soup
+msgid "3"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:334
+#: vc_extend/extend_vc.php:244
+#: vc_extend/extend_vc.php:820
+#@ soup
+msgid "4"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:335
+#: vc_extend/extend_vc.php:245
+#: vc_extend/extend_vc.php:821
+#@ soup
+msgid "5"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:344
+#@ soup
+msgid "Offers Options"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:353
+#@ soup
+msgid "Excerpt"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:355
+#@ soup
+msgid "Input excerpt text here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:360
+#@ soup
+msgid "Product Link"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:362
+#@ soup
+msgid "Input product link here."
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:369
+#@ soup
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:372
+#@ soup
+msgid "Features {#}"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:373
+#@ soup
+msgid "Add Another Feature"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:374
+#@ soup
+msgid "Remove Feature"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:381
+#: vc_extend/extend_vc.php:490
+#@ soup
+msgid "Feature Text"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:387
+#@ soup
+msgid "Feature Enable"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:391
+#: lib/theme-config/config-redux/redux-config.php:958
+#: vc_extend/extend_vc.php:8
+#: vc_extend/extend_vc.php:499
+#@ soup
+msgid "Yes"
+msgstr ""
+
+#: lib/theme-config/config-cmb2/metabox-config.php:392
+#: lib/theme-config/config-redux/redux-config.php:959
+#: vc_extend/extend_vc.php:500
+#@ soup
+msgid "No"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:46
+#: lib/theme-config/config-redux/redux-config.php:48
+#@ soup
+msgid "Soup Options"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:246
+#@ soup
+msgid "Theme Information 1"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:248
+#: lib/theme-config/config-redux/redux-config.php:258
+#@ soup
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:256
+#@ soup
+msgid "Theme Information 2"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:270
+#@ soup
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:277
+#@ soup
+msgid "Global Settings"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:283
+#@ soup
+msgid "Body Typography"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:292
+#: lib/theme-config/config-redux/redux-config.php:390
+#@ soup
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:304
+#@ soup
+msgid "Body Background"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:311
+#@ soup
+msgid "Brand Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:312
+#@ soup
+msgid "Pick a color as brand color."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:317
+#@ soup
+msgid "Body Style"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:325
+#@ soup
+msgid "Product Style"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:332
+#@ soup
+msgid "Product Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:333
+#@ soup
+msgid "Specify the product title font properties."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:346
+#@ soup
+msgid "Product Subtitle"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:347
+#@ soup
+msgid "Specify the product subtitle font properties."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:360
+#@ soup
+msgid "My Account ( menu )"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:361
+#@ soup
+msgid "Specify the my acocunt page menu font properties."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:375
+#@ soup
+msgid "Main Header"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:381
+#@ soup
+msgid "Menu Typography"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:402
+#@ soup
+msgid "Menu BG Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:411
+#: lib/theme-config/config-redux/redux-config.php:1106
+#: vc_extend/extend_vc.php:317
+#@ soup
+msgid "Upload Logo"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:412
+#@ soup
+msgid "Best Size is (115 X 38) px"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:417
+#@ soup
+msgid "Logo Style"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:419
+#@ soup
+msgid "Box"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:420
+#@ soup
+msgid "Full Image"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:427
+#: lib/theme-config/config-redux/redux-config.php:1113
+#: vc_extend/extend_vc.php:324
+#@ soup
+msgid "Logo Width"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:428
+#: lib/theme-config/config-redux/redux-config.php:442
+#: lib/theme-config/config-redux/redux-config.php:1114
+#@ soup
+msgid "Put a numeric value with px. Such As: 113px or % value "
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:434
+#: lib/theme-config/config-redux/redux-config.php:1121
+#: vc_extend/extend_vc.php:331
+#@ soup
+msgid "Logo Height"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:435
+#: lib/theme-config/config-redux/redux-config.php:449
+#: lib/theme-config/config-redux/redux-config.php:1122
+#@ soup
+msgid "Put a numeric value with px. Such As: 33px or % value "
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:441
+#@ soup
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:448
+#@ soup
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:455
+#@ soup
+msgid "Logo BG Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:463
+#@ soup
+msgid "Cart Icon"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:471
+#@ soup
+msgid "Follow Us"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:472
+#@ soup
+msgid "Mobile menu follow us section."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:474
+#@ soup
+msgid "Enable"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:475
+#@ soup
+msgid "Disable"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:481
+#@ soup
+msgid "Facebook Url"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:482
+#@ soup
+msgid "Input facebook url here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:489
+#@ soup
+msgid "Google Plus Url"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:490
+#@ soup
+msgid "Input google plus url here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:497
+#@ soup
+msgid "Twitter Url"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:498
+#@ soup
+msgid "Input twitter url here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:505
+#@ soup
+msgid "Youtube Url"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:506
+#@ soup
+msgid "Input youtube url here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:513
+#@ soup
+msgid "Instagram Url"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:514
+#@ soup
+msgid "Input instagram url here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:521
+#@ soup
+msgid "Blog Options"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:527
+#@ soup
+msgid "Blog Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:528
+#: lib/theme-core-functions/_helpers.php:238
+#@ soup
+msgid "Blog"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:529
+#: lib/theme-config/config-redux/redux-config.php:536
+#@ soup
+msgid "If you put empty this field, it will display Default Value"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:534
+#@ soup
+msgid "Blog SubTitle"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:535
+#: lib/theme-config/config-redux/redux-config.php:645
+#: lib/theme-config/config-redux/redux-config.php:689
+#: lib/theme-core-functions/_helpers.php:304
+#@ soup
+msgid "Some informations about our restaurant"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:546
+#@ soup
+msgid "Blog Sidebar"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:548
+#: lib/theme-config/config-redux/redux-config.php:658
+#: lib/theme-config/config-redux/redux-config.php:702
+#: vc_extend/extend_vc.php:863
+#: vc_extend/extend_vc.php:886
+#@ soup
+msgid "Left"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:549
+#: lib/theme-config/config-redux/redux-config.php:659
+#: lib/theme-config/config-redux/redux-config.php:703
+#: vc_extend/extend_vc.php:864
+#: vc_extend/extend_vc.php:887
+#@ soup
+msgid "Right"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:556
+#@ soup
+msgid "Slider Settings"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:562
+#@ soup
+msgid "Title Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:564
+#: lib/theme-config/config-redux/redux-config.php:586
+#@ soup
+msgid "Select a color from here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:570
+#@ soup
+msgid "Title Font Size"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:572
+#: lib/theme-config/config-redux/redux-config.php:593
+#@ soup
+msgid "Input font size value here. Must added unit value ( px or em )."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:577
+#@ soup
+msgid "Title Font Weight"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:579
+#: lib/theme-config/config-redux/redux-config.php:600
+#: lib/theme-config/config-redux/redux-config.php:607
+#@ soup
+msgid "Input font weight value here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:584
+#@ soup
+msgid "SubTitle Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:591
+#@ soup
+msgid "SubTitle Font Size"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:598
+#@ soup
+msgid "SubTitle Font Weight"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:605
+#@ soup
+msgid "Slider Speed"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:617
+#@ soup
+msgid "Page Settings"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:619
+#: lib/theme-config/config-redux/redux-config.php:776
+#@ soup
+msgid "Multiple page settings support from here"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:623
+#@ soup
+msgid "Search Page"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:630
+#: lib/theme-config/config-redux/redux-config.php:674
+#@ soup
+msgid "Disable Banner ?"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:631
+#: lib/theme-config/config-redux/redux-config.php:675
+#: lib/theme-config/config-redux/redux-config.php:720
+#: lib/theme-config/config-redux/redux-config.php:830
+#: lib/theme-config/config-redux/redux-config.php:858
+#@ soup
+msgid "If yes, then click the checkbox."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:637
+#@ soup
+msgid "Search Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:638
+#@ soup
+msgid "Search Post"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:639
+#: lib/theme-config/config-redux/redux-config.php:646
+#@ soup
+msgid "If you put empty this field, it will display Search text"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:644
+#@ soup
+msgid "Search Sub Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:656
+#@ soup
+msgid "Search Sidebar"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:667
+#@ soup
+msgid "Archive Page"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:681
+#@ soup
+msgid "Archive Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:682
+#@ soup
+msgid "Archive Post"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:683
+#: lib/theme-config/config-redux/redux-config.php:690
+#@ soup
+msgid "If you put empty this field, it will display Category,Tag, Date as Archive Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:688
+#@ soup
+msgid "Archive Sub Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:700
+#@ soup
+msgid "Archive Sidebar"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:712
+#@ soup
+msgid "Single Offer"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:719
+#: lib/theme-config/config-redux/redux-config.php:857
+#@ soup
+msgid "Enable Banner ?"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:728
+#: lib/theme-config/config-redux/redux-config.php:866
+#@ soup
+msgid "Write banner title here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:735
+#: lib/theme-config/config-redux/redux-config.php:873
+#@ soup
+msgid "Write banner subtitle here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:745
+#: lib/theme-config/config-redux/redux-config.php:883
+#@ soup
+msgid "Left Btton Label"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:747
+#: lib/theme-config/config-redux/redux-config.php:761
+#: lib/theme-config/config-redux/redux-config.php:885
+#: lib/theme-config/config-redux/redux-config.php:899
+#: vc_extend/extend_vc.php:292
+#@ soup
+msgid "Write button label here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:752
+#: lib/theme-config/config-redux/redux-config.php:890
+#@ soup
+msgid "Left Btton Url"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:754
+#: lib/theme-config/config-redux/redux-config.php:768
+#: lib/theme-config/config-redux/redux-config.php:892
+#: lib/theme-config/config-redux/redux-config.php:906
+#@ soup
+msgid "Write button url here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:759
+#: lib/theme-config/config-redux/redux-config.php:897
+#@ soup
+msgid "Right Btton Label"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:766
+#: lib/theme-config/config-redux/redux-config.php:904
+#@ soup
+msgid "Right Btton Url"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:774
+#@ soup
+msgid "Woocommerce"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:779
+#@ soup
+msgid "Store Settings"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:786
+#@ soup
+msgid "Opening/Closing"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:788
+#@ soup
+msgid "Open"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:789
+#@ soup
+msgid "Close"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:795
+#@ soup
+msgid "Closing Message"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:802
+#@ soup
+msgid "Text Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:809
+#@ soup
+msgid "Background Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:815
+#@ soup
+msgid "Single Product"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:824
+#@ soup
+msgid "Review Info"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:829
+#@ soup
+msgid "Enable Review?"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:836
+#@ soup
+msgid "Review Title"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:838
+#@ soup
+msgid "Write review title here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:843
+#: vc_extend/extend_vc.php:844
+#@ soup
+msgid "Number of Review to Show"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:845
+#: vc_extend/extend_vc.php:477
+#@ soup
+msgid "Input numeric value here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:852
+#@ soup
+msgid "Banner Info"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:912
+#@ soup
+msgid "Pop UP Settings"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:919
+#: vc_extend/extend_vc.php:27
+#: vc_extend/extend_vc.php:71
+#: vc_extend/extend_vc.php:79
+#: vc_extend/extend_vc.php:461
+#: vc_extend/extend_vc.php:906
+#: vc_extend/extend_vc.php:1033
+#@ soup
+msgid "Write title here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:925
+#@ soup
+msgid "Popup BG Image"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:927
+#@ soup
+msgid "Custom Image"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:928
+#@ soup
+msgid "Product Image"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:934
+#@ soup
+msgid "Upload Image"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:935
+#@ soup
+msgid "Upload pop-up title background image from here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:940
+#@ soup
+msgid "Checkout Settings"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:947
+#@ soup
+msgid "Delivery Section on Checkout"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:956
+#@ soup
+msgid "Enable Take Away?"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:965
+#@ soup
+msgid "Diable Dates."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:966
+#@ soup
+msgid "You can disable multiple dates. Date format is 2020-04-23. Use pipe (|) to divide each dates. Ex. 2020-04-23|2020-04-24|2020-04-25|2020-04-26 "
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:973
+#@ soup
+msgid "Diable Hours."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:974
+#@ soup
+msgid "You can disable multiple hours. Hours will be 0 to 23 (24 hours). Ex. 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:982
+#@ soup
+msgid "Advanced Options"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:988
+#@ soup
+msgid "Collapse Menu"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:990
+#@ soup
+msgid "First One Is Open"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:991
+#@ soup
+msgid "All are Closed"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:998
+#@ soup
+msgid "Order Redirect"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1007
+#@ soup
+msgid "Order Redirect to Confirmation Page"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1008
+#@ soup
+msgid "Input page url here. where you want to redirect after order."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1014
+#@ soup
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1015
+#@ soup
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1023
+#@ soup
+msgid "Custom JS"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1024
+#@ soup
+msgid "Paste your JS code here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1034
+#@ soup
+msgid "Google Map Options"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1040
+#@ soup
+msgid "Map Api Key"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1042
+#@ soup
+msgid "Input api key here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1047
+#@ soup
+msgid "Latitude"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1048
+#@ soup
+msgid "Input latitude here.."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1053
+#@ soup
+msgid "Longitude"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1054
+#@ soup
+msgid "Input longitude here.."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1059
+#@ soup
+msgid "Map Icon"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1060
+#@ soup
+msgid "Upload image here.( png format )."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1066
+#@ soup
+msgid "Footer Options"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1080
+#@ soup
+msgid "Footer BG Color"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1081
+#@ soup
+msgid "If background image doesn't set, then defalut color will be set as a background"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1088
+#@ soup
+msgid "Footer Widget Section"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1099
+#@ soup
+msgid "Logo Section"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1107
+#@ soup
+msgid "Best Size is (88 X 96) px"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1130
+#@ soup
+msgid "Copyright Section"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1136
+#: lib/theme-config/config-redux/redux-config.php:1148
+#@ soup
+msgid "Copyright Text"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1137
+#: lib/theme-config/config-redux/redux-config.php:1149
+#@ soup
+msgid "Put Copyright Text Here"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1162
+#@ soup
+msgid "Social Section"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1168
+#: vc_extend/extend_vc.php:383
+#@ soup
+msgid "Facebook Link"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1170
+#@ soup
+msgid "Input facebook link here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1176
+#: vc_extend/extend_vc.php:390
+#@ soup
+msgid "Google Plus Link"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1178
+#@ soup
+msgid "Input google plus link here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1184
+#: vc_extend/extend_vc.php:397
+#@ soup
+msgid "Twitter Link"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1186
+#@ soup
+msgid "Input twitter link here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1192
+#: vc_extend/extend_vc.php:404
+#@ soup
+msgid "Youtube Link"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1194
+#@ soup
+msgid "Input youtube link here."
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1200
+#: vc_extend/extend_vc.php:411
+#@ soup
+msgid "Instagram Link"
+msgstr ""
+
+#: lib/theme-config/config-redux/redux-config.php:1202
+#@ soup
+msgid "Input instagram link here."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:327
+#@ soup
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:328
+#@ soup
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:330
+#, php-format
+#@ soup
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:332
+#, php-format
+#@ soup
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:333
+#@ soup
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:336
+#, php-format
+#@ soup
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:342
+#, php-format
+#@ soup
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:348
+#, php-format
+#@ soup
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:354
+#, php-format
+#@ soup
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:360
+#, php-format
+#@ soup
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:366
+#, php-format
+#@ soup
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:371
+#@ soup
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:376
+#@ soup
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:381
+#@ soup
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:385
+#@ soup
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:386
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:827
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2533
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3580
+#@ soup
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:387
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3159
+#@ soup
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:390
+#, php-format
+#@ soup
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:392
+#, php-format
+#@ soup
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:394
+#, php-format
+#@ soup
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:395
+#@ soup
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:396
+#@ soup
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:397
+#@ soup
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:522
+#@ soup
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:523
+#@ soup
+msgid "Update Required"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:934
+#@ soup
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:934
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:937
+#@ soup
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:937
+#@ soup
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:1121
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2948
+#@ soup
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:1982
+#, php-format
+#@ soup
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2273
+#@ soup
+msgid "Required"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2276
+#@ soup
+msgid "Recommended"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2292
+#@ soup
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2295
+#@ soup
+msgid "External Source"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2298
+#@ soup
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2315
+#@ soup
+msgid "Not Installed"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2319
+#@ soup
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2321
+#@ soup
+msgid "Active"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2327
+#@ soup
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2330
+#@ soup
+msgid "Requires Update"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2333
+#@ soup
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2342
+#, php-format
+#@ soup
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2388
+#, php-format
+#@ soup
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2392
+#, php-format
+#@ soup
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2396
+#, php-format
+#@ soup
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2400
+#, php-format
+#@ soup
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2482
+#@ soup
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2490
+#@ soup
+msgid "Installed version:"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2498
+#@ soup
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2510
+#@ soup
+msgid "Available version:"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2533
+#@ soup
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2547
+#@ soup
+msgid "Plugin"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2548
+#@ soup
+msgid "Source"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2553
+#@ soup
+msgid "Version"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2554
+#@ soup
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2603
+#, php-format
+#@ soup
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2608
+#, php-format
+#@ soup
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2614
+#, php-format
+#@ soup
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2684
+#@ soup
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2717
+#@ soup
+msgid "Install"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2723
+#@ soup
+msgid "Update"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2726
+#@ soup
+msgid "Activate"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2757
+#@ soup
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2759
+#@ soup
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2800
+#@ soup
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2802
+#@ soup
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2908
+#@ soup
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2934
+#@ soup
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:2952
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:388
+#@ soup
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3158
+#@ soup
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3498
+#, php-format
+#@ soup
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3501
+#, php-format
+#@ soup
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3503
+#, php-format
+#@ soup
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3507
+#@ soup
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3509
+#, php-format
+#@ soup
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3509
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3517
+#@ soup
+msgid "Show Details"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3509
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3517
+#@ soup
+msgid "Hide Details"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3510
+#@ soup
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3512
+#, php-format
+#@ soup
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3515
+#@ soup
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3517
+#, php-format
+#@ soup
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3518
+#@ soup
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/theme-config/config-tgm/_class-tgm-plugin-activation.php:3520
+#, php-format
+#@ soup
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:18
+#@ soup
+msgid "Soup Core"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:24
+#@ soup
+msgid "Redux Framework"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:29
+#@ soup
+msgid "Slider Revolution"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:35
+#@ soup
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:41
+#@ soup
+msgid "WC Variations Radio Buttons"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:47
+#@ soup
+msgid "CMB2"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:52
+#@ soup
+msgid "WooCommerce"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:57
+#@ soup
+msgid "Contact Form 7"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:62
+#@ soup
+msgid "Mailchimp for Wp"
+msgstr ""
+
+#: lib/theme-config/config-tgm/tgm-config.php:67
+#@ soup
+msgid "One Click Demo Import"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:107
+#@ soup
+msgid "Add Menu"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:142
+#@ soup
+msgid "on"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:142
+#: lib/theme-core-functions/_helpers.php:518
+#: lib/theme-core-functions/_helpers.php:589
+#, php-format
+#@ soup
+msgid "%1$s"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:144
+#@ soup
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:197
+#@ soup
+msgid "Write a comment"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:202
+#@ soup
+msgid "Send a comment"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:295
+#: lib/theme-core-functions/_helpers.php:361
+#@ soup
+msgid "404 Error"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:381
+#@ soup
+msgid "None. Create slider categor first."
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:516
+#: lib/theme-core-functions/_helpers.php:587
+#: woocommerce/checkout/review-order.php:122
+#@ soup
+msgid "Total"
+msgstr ""
+
+#: lib/theme-core-functions/_helpers.php:521
+#: lib/theme-core-functions/_helpers.php:525
+#: lib/theme-core-functions/_helpers.php:592
+#: lib/theme-core-functions/_helpers.php:596
+#@ soup
+msgid "No products in the cart."
+msgstr ""
+
+#: lib/theme-core-functions/_register.php:10
+#@ soup
+msgid "Sidebar"
+msgstr ""
+
+#: lib/theme-core-functions/_register.php:12
+#: lib/theme-core-functions/_register.php:21
+#@ soup
+msgid "Add widgets here."
+msgstr ""
+
+#: lib/theme-core-functions/_register.php:19
+#@ soup
+msgid "Footer Widget"
+msgstr ""
+
+#: lib/theme-core-functions/theme-core-functions.php:53
+#@ soup
+msgid "Main Menu"
+msgstr ""
+
+#: lib/theme-core-functions/theme-core-functions.php:93
+#@ soup
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: lib/theme-core-functions/theme-core-functions.php:94
+#@ soup
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr ""
+
+#: lib/theme-core-functions/theme-core-functions.php:95
+#@ soup
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: single-offers.php:43
+#@ soup
+msgid "Go to checkout!"
+msgstr ""
+
+#: single-offers.php:44
+#@ soup
+msgid "Back"
+msgstr ""
+
+#: single-offers.php:56
+#@ soup
+msgid "Order Online"
+msgstr ""
+
+#: single-offers.php:58
+#@ soup
+msgid "Book a table"
+msgstr ""
+
+#: template-parts/content-none.php:14
+#@ soup
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#@ soup
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+#@ soup
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:18
+#: template-parts/content-single.php:30
+#@ soup
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:36
+#, php-format
+#@ soup
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-single.php:24
+#: template-parts/content-srch.php:20
+#: template-parts/content.php:20
+#@ soup
+msgid "by"
+msgstr ""
+
+#: template-parts/content-single.php:41
+#, php-format
+#@ soup
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr ""
+
+#: template-parts/content-single.php:46
+#@ soup
+msgid "Next"
+msgstr ""
+
+#: template-parts/content-single.php:47
+#@ soup
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/content-single.php:49
+#@ soup
+msgid "Previous"
+msgstr ""
+
+#: template-parts/content-single.php:50
+#@ soup
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content-srch.php:22
+#: template-parts/content.php:22
+#@ soup
+msgid "Sticky "
+msgstr ""
+
+#: vc_extend/extend_vc.php:6
+#@ soup
+msgid "Enable Inner Container"
+msgstr ""
+
+#: vc_extend/extend_vc.php:15
+#@ soup
+msgid "Services Item"
+msgstr ""
+
+#: vc_extend/extend_vc.php:19
+#: vc_extend/extend_vc.php:63
+#: vc_extend/extend_vc.php:131
+#: vc_extend/extend_vc.php:151
+#: vc_extend/extend_vc.php:226
+#: vc_extend/extend_vc.php:312
+#: vc_extend/extend_vc.php:425
+#: vc_extend/extend_vc.php:445
+#: vc_extend/extend_vc.php:519
+#: vc_extend/extend_vc.php:538
+#: vc_extend/extend_vc.php:557
+#: vc_extend/extend_vc.php:576
+#: vc_extend/extend_vc.php:597
+#: vc_extend/extend_vc.php:645
+#: vc_extend/extend_vc.php:693
+#: vc_extend/extend_vc.php:741
+#: vc_extend/extend_vc.php:790
+#: vc_extend/extend_vc.php:810
+#: vc_extend/extend_vc.php:879
+#: vc_extend/extend_vc.php:944
+#: vc_extend/extend_vc.php:996
+#: vc_extend/extend_vc.php:1025
+#: vc_extend/extend_vc.php:1070
+#: vc_extend/extend_vc.php:1098
+#: vc_extend/extend_vc.php:1142
+#: vc_extend/extend_vc.php:1236
+#@ soup
+msgid "Soup"
+msgstr ""
+
+#: vc_extend/extend_vc.php:23
+#@ soup
+msgid " Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:31
+#: vc_extend/extend_vc.php:836
+#@ soup
+msgid "Short Text"
+msgstr ""
+
+#: vc_extend/extend_vc.php:35
+#: vc_extend/extend_vc.php:87
+#@ soup
+msgid "Write short text here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:59
+#@ soup
+msgid "Visit Us"
+msgstr ""
+
+#: vc_extend/extend_vc.php:91
+#@ soup
+msgid "Left Button Text"
+msgstr ""
+
+#: vc_extend/extend_vc.php:99
+#@ soup
+msgid "Left Button Link"
+msgstr ""
+
+#: vc_extend/extend_vc.php:107
+#@ soup
+msgid "Right Button Text"
+msgstr ""
+
+#: vc_extend/extend_vc.php:115
+#@ soup
+msgid "Right Button Link"
+msgstr ""
+
+#: vc_extend/extend_vc.php:127
+#@ soup
+msgid "Gallery Slider"
+msgstr ""
+
+#: vc_extend/extend_vc.php:135
+#@ soup
+msgid "Upload Multiple Images"
+msgstr ""
+
+#: vc_extend/extend_vc.php:139
+#@ soup
+msgid "Upload multiple images for gallery slider."
+msgstr ""
+
+#: vc_extend/extend_vc.php:147
+#@ soup
+msgid "FAQ"
+msgstr ""
+
+#: vc_extend/extend_vc.php:156
+#: vc_extend/extend_vc.php:185
+#: vc_extend/extend_vc.php:948
+#: vc_extend/extend_vc.php:1000
+#: vc_extend/extend_vc.php:1074
+#: vc_extend/extend_vc.php:1110
+#@ soup
+msgid "Section Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:158
+#: vc_extend/extend_vc.php:187
+#: vc_extend/extend_vc.php:255
+#: vc_extend/extend_vc.php:319
+#: vc_extend/extend_vc.php:340
+#@ soup
+msgid "Write section title here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:162
+#@ soup
+msgid "Main Section Part"
+msgstr ""
+
+#: vc_extend/extend_vc.php:171
+#@ soup
+msgid "Menu Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:173
+#: vc_extend/extend_vc.php:202
+#@ soup
+msgid "Write menu title here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:178
+#@ soup
+msgid "Section Icon"
+msgstr ""
+
+#: vc_extend/extend_vc.php:180
+#@ soup
+msgid "put font awesome icon class here. it will display before title."
+msgstr ""
+
+#: vc_extend/extend_vc.php:191
+#@ soup
+msgid "Sub Section Part"
+msgstr ""
+
+#: vc_extend/extend_vc.php:200
+#@ soup
+msgid "Menu Sub Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:207
+#@ soup
+msgid "Section Sub Text"
+msgstr ""
+
+#: vc_extend/extend_vc.php:209
+#@ soup
+msgid "Write section short text here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:222
+#@ soup
+msgid "About"
+msgstr ""
+
+#: vc_extend/extend_vc.php:230
+#: vc_extend/extend_vc.php:429
+#@ soup
+msgid "Profile Image"
+msgstr ""
+
+#: vc_extend/extend_vc.php:234
+#: vc_extend/extend_vc.php:433
+#@ soup
+msgid "Upload profile image."
+msgstr ""
+
+#: vc_extend/extend_vc.php:238
+#@ soup
+msgid "Rating"
+msgstr ""
+
+#: vc_extend/extend_vc.php:248
+#@ soup
+msgid "Select a order."
+msgstr ""
+
+#: vc_extend/extend_vc.php:253
+#@ soup
+msgid "Section Titlet"
+msgstr ""
+
+#: vc_extend/extend_vc.php:260
+#@ soup
+msgid "Section Description"
+msgstr ""
+
+#: vc_extend/extend_vc.php:262
+#@ soup
+msgid "Write section description here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:267
+#@ soup
+msgid "Name And Designation"
+msgstr ""
+
+#: vc_extend/extend_vc.php:269
+#@ soup
+msgid "Write name and designation with comma (,)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:273
+#@ soup
+msgid "Signature Image"
+msgstr ""
+
+#: vc_extend/extend_vc.php:277
+#: vc_extend/extend_vc.php:285
+#@ soup
+msgid "Upload signature image."
+msgstr ""
+
+#: vc_extend/extend_vc.php:281
+#@ soup
+msgid "Question"
+msgstr ""
+
+#: vc_extend/extend_vc.php:290
+#@ soup
+msgid "Button Label"
+msgstr ""
+
+#: vc_extend/extend_vc.php:308
+#@ soup
+msgid "Contact Info"
+msgstr ""
+
+#: vc_extend/extend_vc.php:326
+#@ soup
+msgid "Insert logo width value with pixel. ex. 100px"
+msgstr ""
+
+#: vc_extend/extend_vc.php:333
+#@ soup
+msgid "Insert logo height value with pixel. ex. 100px"
+msgstr ""
+
+#: vc_extend/extend_vc.php:345
+#@ soup
+msgid "Address"
+msgstr ""
+
+#: vc_extend/extend_vc.php:347
+#: vc_extend/extend_vc.php:378
+#@ soup
+msgid "Write address here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:351
+#@ soup
+msgid "Mailing Info"
+msgstr ""
+
+#: vc_extend/extend_vc.php:362
+#: vc_extend/extend_vc.php:967
+#@ soup
+msgid "Write title here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:367
+#@ soup
+msgid "Text"
+msgstr ""
+
+#: vc_extend/extend_vc.php:369
+#@ soup
+msgid "Write text here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:376
+#@ soup
+msgid "Social Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:385
+#@ soup
+msgid "Input facebook link here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:392
+#@ soup
+msgid "Input google plus link here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:399
+#@ soup
+msgid "Input twitter link here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:406
+#@ soup
+msgid "Input youtube link here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:413
+#@ soup
+msgid "Input instagram link here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:421
+#@ soup
+msgid "Contact Map"
+msgstr ""
+
+#: vc_extend/extend_vc.php:441
+#@ soup
+msgid "Offers"
+msgstr ""
+
+#: vc_extend/extend_vc.php:453
+#@ soup
+msgid "Upload an image."
+msgstr ""
+
+#: vc_extend/extend_vc.php:473
+#@ soup
+msgid "Number of Offer to Show"
+msgstr ""
+
+#: vc_extend/extend_vc.php:481
+#@ soup
+msgid "Add Features"
+msgstr ""
+
+#: vc_extend/extend_vc.php:492
+#@ soup
+msgid "Write feature here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:496
+#@ soup
+msgid "Highlight This Feature?"
+msgstr ""
+
+#: vc_extend/extend_vc.php:503
+#: vc_extend/extend_vc.php:890
+#@ soup
+msgid "Select one of them."
+msgstr ""
+
+#: vc_extend/extend_vc.php:515
+#@ soup
+msgid "List Navigation (Deprecated)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:524
+#: vc_extend/extend_vc.php:543
+#: vc_extend/extend_vc.php:562
+#: vc_extend/extend_vc.php:581
+#@ soup
+msgid "Category Slug"
+msgstr ""
+
+#: vc_extend/extend_vc.php:526
+#: vc_extend/extend_vc.php:545
+#: vc_extend/extend_vc.php:564
+#: vc_extend/extend_vc.php:583
+#@ soup
+msgid "Insert category slug using comma (,) here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:534
+#@ soup
+msgid "List Collapse (Deprecated)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:553
+#@ soup
+msgid "Grid Navigation (Deprecated)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:572
+#@ soup
+msgid "Grid Collapse (Deprecated) "
+msgstr ""
+
+#: vc_extend/extend_vc.php:593
+#@ soup
+msgid "List Navigation (Update)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:602
+#: vc_extend/extend_vc.php:650
+#: vc_extend/extend_vc.php:698
+#: vc_extend/extend_vc.php:746
+#@ soup
+msgid "Exclude Categories"
+msgstr ""
+
+#: vc_extend/extend_vc.php:604
+#: vc_extend/extend_vc.php:611
+#: vc_extend/extend_vc.php:618
+#: vc_extend/extend_vc.php:652
+#: vc_extend/extend_vc.php:659
+#: vc_extend/extend_vc.php:666
+#: vc_extend/extend_vc.php:700
+#: vc_extend/extend_vc.php:707
+#: vc_extend/extend_vc.php:714
+#: vc_extend/extend_vc.php:748
+#: vc_extend/extend_vc.php:755
+#: vc_extend/extend_vc.php:762
+#@ soup
+msgid "Category"
+msgstr ""
+
+#: vc_extend/extend_vc.php:605
+#: vc_extend/extend_vc.php:653
+#: vc_extend/extend_vc.php:701
+#: vc_extend/extend_vc.php:749
+#@ soup
+msgid "Insert category ID using comma (,) here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:609
+#: vc_extend/extend_vc.php:623
+#: vc_extend/extend_vc.php:657
+#: vc_extend/extend_vc.php:671
+#: vc_extend/extend_vc.php:705
+#: vc_extend/extend_vc.php:719
+#: vc_extend/extend_vc.php:753
+#: vc_extend/extend_vc.php:767
+#@ soup
+msgid "Order"
+msgstr ""
+
+#: vc_extend/extend_vc.php:612
+#: vc_extend/extend_vc.php:626
+#: vc_extend/extend_vc.php:660
+#: vc_extend/extend_vc.php:674
+#: vc_extend/extend_vc.php:708
+#: vc_extend/extend_vc.php:722
+#: vc_extend/extend_vc.php:756
+#: vc_extend/extend_vc.php:770
+#@ soup
+msgid "Insert ASC or DESC."
+msgstr ""
+
+#: vc_extend/extend_vc.php:616
+#: vc_extend/extend_vc.php:630
+#: vc_extend/extend_vc.php:664
+#: vc_extend/extend_vc.php:678
+#: vc_extend/extend_vc.php:712
+#: vc_extend/extend_vc.php:726
+#: vc_extend/extend_vc.php:760
+#: vc_extend/extend_vc.php:774
+#@ soup
+msgid "Orderby"
+msgstr ""
+
+#: vc_extend/extend_vc.php:619
+#: vc_extend/extend_vc.php:667
+#: vc_extend/extend_vc.php:715
+#: vc_extend/extend_vc.php:763
+#@ soup
+msgid "Insert name, slug or ID"
+msgstr ""
+
+#: vc_extend/extend_vc.php:625
+#: vc_extend/extend_vc.php:632
+#: vc_extend/extend_vc.php:673
+#: vc_extend/extend_vc.php:680
+#: vc_extend/extend_vc.php:721
+#: vc_extend/extend_vc.php:728
+#: vc_extend/extend_vc.php:769
+#: vc_extend/extend_vc.php:776
+#@ soup
+msgid "Product"
+msgstr ""
+
+#: vc_extend/extend_vc.php:633
+#: vc_extend/extend_vc.php:681
+#: vc_extend/extend_vc.php:729
+#: vc_extend/extend_vc.php:777
+#@ soup
+msgid "Insert none, ID, title, name (slug), date, or menu_order"
+msgstr ""
+
+#: vc_extend/extend_vc.php:641
+#@ soup
+msgid "List Collapse (Update)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:689
+#@ soup
+msgid "Grid Navigation (Update)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:737
+#@ soup
+msgid "Grid Collapse (Update)"
+msgstr ""
+
+#: vc_extend/extend_vc.php:786
+#@ soup
+msgid "All Reviews"
+msgstr ""
+
+#: vc_extend/extend_vc.php:794
+#@ soup
+msgid "Number of Reviews to Show"
+msgstr ""
+
+#: vc_extend/extend_vc.php:798
+#@ soup
+msgid "Input number here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:806
+#@ soup
+msgid "Reviews With Image"
+msgstr ""
+
+#: vc_extend/extend_vc.php:814
+#@ soup
+msgid "Your Rate"
+msgstr ""
+
+#: vc_extend/extend_vc.php:832
+#: vc_extend/extend_vc.php:840
+#@ soup
+msgid "Write Section title here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:848
+#@ soup
+msgid "Select a team member which you want to show."
+msgstr ""
+
+#: vc_extend/extend_vc.php:852
+#: vc_extend/extend_vc.php:1053
+#@ soup
+msgid "Section BG Image"
+msgstr ""
+
+#: vc_extend/extend_vc.php:856
+#@ soup
+msgid "Upload an image for section background."
+msgstr ""
+
+#: vc_extend/extend_vc.php:860
+#@ soup
+msgid "Image Position"
+msgstr ""
+
+#: vc_extend/extend_vc.php:867
+#@ soup
+msgid "Select position."
+msgstr ""
+
+#: vc_extend/extend_vc.php:875
+#@ soup
+msgid "Promo Info"
+msgstr ""
+
+#: vc_extend/extend_vc.php:883
+#@ soup
+msgid "Position"
+msgstr ""
+
+#: vc_extend/extend_vc.php:894
+#@ soup
+msgid "Add Promo Feature"
+msgstr ""
+
+#: vc_extend/extend_vc.php:918
+#: vc_extend/extend_vc.php:1186
+#: vc_extend/extend_vc.php:1240
+#@ soup
+msgid "Icon Class"
+msgstr ""
+
+#: vc_extend/extend_vc.php:922
+#@ soup
+msgid "Input font-awesome icon class here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:926
+#: vc_extend/extend_vc.php:979
+#@ soup
+msgid "Link"
+msgstr ""
+
+#: vc_extend/extend_vc.php:930
+#@ soup
+msgid "Input custom link here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:940
+#@ soup
+msgid "Menu Slider"
+msgstr ""
+
+#: vc_extend/extend_vc.php:952
+#: vc_extend/extend_vc.php:1004
+#: vc_extend/extend_vc.php:1078
+#: vc_extend/extend_vc.php:1114
+#@ soup
+msgid "Write section title here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:956
+#@ soup
+msgid "Add Slide"
+msgstr ""
+
+#: vc_extend/extend_vc.php:974
+#@ soup
+msgid "Upload an image here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:981
+#@ soup
+msgid "Input link here"
+msgstr ""
+
+#: vc_extend/extend_vc.php:992
+#@ soup
+msgid "Offers Slider"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1008
+#: vc_extend/extend_vc.php:1082
+#@ soup
+msgid "Number of Post to Show"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1012
+#@ soup
+msgid "Input number. How many post want to display."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1021
+#@ soup
+msgid "Promo Video"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1045
+#@ soup
+msgid "Video Link"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1049
+#@ soup
+msgid "Input youtube video  embeded link here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1057
+#@ soup
+msgid "Upload an image from here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1066
+#@ soup
+msgid "Blog Post Slider"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1086
+#@ soup
+msgid "Input number. how many post want ot show."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1094
+#@ soup
+msgid "Write A Review"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1102
+#: vc_extend/extend_vc.php:1210
+#@ soup
+msgid "Background Image"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1106
+#@ soup
+msgid "Upload section background image."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1118
+#@ soup
+msgid "Section Sub Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1122
+#@ soup
+msgid "Write section subtitle here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1126
+#: vc_extend/extend_vc.php:1264
+#@ soup
+msgid "Button Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1130
+#: vc_extend/extend_vc.php:1268
+#@ soup
+msgid "Write button title here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1138
+#@ soup
+msgid "Book A Table"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1146
+#: vc_extend/extend_vc.php:1170
+#@ soup
+msgid "Mail Subject"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1150
+#: vc_extend/extend_vc.php:1174
+#@ soup
+msgid "Write mail subject here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1154
+#@ soup
+msgid "Received Mail"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1158
+#@ soup
+msgid "Write receive mail here. Where you want to receive."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1162
+#@ soup
+msgid "Admin Mail"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1166
+#@ soup
+msgid "Write admin mail here. such as: admin(at)domain.com"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1178
+#@ soup
+msgid "Form Header Image"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1182
+#@ soup
+msgid "Upload header image."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1190
+#: vc_extend/extend_vc.php:1244
+#@ soup
+msgid "Input here font awesome icon class here which you want to show."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1194
+#@ soup
+msgid "Form Head Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1198
+#@ soup
+msgid "Write form head title here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1202
+#@ soup
+msgid "Form Head Sub Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1206
+#@ soup
+msgid "Write form head sub title here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1214
+#@ soup
+msgid "Upload section background image. If background video filed is empty then it will be displayed."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1218
+#@ soup
+msgid "Form Background Video Link"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1222
+#@ soup
+msgid "Input background video link here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1232
+#@ soup
+msgid "Order Confirmation"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1248
+#@ soup
+msgid "Thank You Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1252
+#@ soup
+msgid "Write thank you title here."
+msgstr ""
+
+#: vc_extend/extend_vc.php:1256
+#@ soup
+msgid "Thank You Sub Title"
+msgstr ""
+
+#: vc_extend/extend_vc.php:1260
+#@ soup
+msgid "Write thank you sub title here."
+msgstr ""
+
+#: woocommerce/archive-product.php:47
+#@ soup
+msgid "Store Close"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+#: woocommerce/checkout/form-billing.php:33
+#@ soup
+msgid "Basic information"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:56
+#@ soup
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:30
+#@ soup
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:40
+#@ soup
+msgid "You order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+#@ soup
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#@ soup
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:58
+#@ soup
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+#@ soup
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+#@ soup
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:51
+#@ soup
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:52
+#@ soup
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:46
+#@ soup
+msgid "Qty: "
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:75
+#@ soup
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/terms.php:28
+#, php-format
+#@ soup
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\" class=\"woocommerce-terms-and-conditions-link\">terms &amp; conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+#@ soup
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+#@ soup
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#@ soup
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42
+#: woocommerce/checkout/thankyou.php:84
+#@ soup
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+#@ soup
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52
+#@ soup
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+#@ soup
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:64
+#@ soup
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+#@ soup
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:24
+#@ soup
+msgid "No products were found matching your selection."
+msgstr ""
+
+#. translators: %d: total results 
+#: woocommerce/loop/result-count.php:29
+#, php-format
+#@ soup
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results 
+#: woocommerce/loop/result-count.php:34
+#, php-format
+#@ soup
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/sale-flash.php:28
+#@ soup
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:53
+#@ soup
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+#@ soup
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+#@ soup
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+#: woocommerce/myaccount/form-login.php:93
+#@ soup
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:45
+#@ soup
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+#@ soup
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+#@ soup
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+#@ soup
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:66
+#@ soup
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#@ soup
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#@ soup
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:52
+#@ soup
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:57
+#@ soup
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+#@ soup
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:100
+#@ soup
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+#@ soup
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:64
+#@ soup
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/myaccount/form-login.php:111
+#@ soup
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+#@ soup
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+#@ soup
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:30
+#@ soup
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:40
+#@ soup
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:27
+#@ soup
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:30
+#@ soup
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:34
+#@ soup
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:47
+#@ soup
+msgid "Save"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:53
+#@ soup
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:109
+#@ soup
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+#@ soup
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product.php:46
+#@ soup
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/single-product.php:51
+#@ soup
+msgid "Back to menu"
+msgstr ""
+
+#: woocommerce/single-product.php:58
+#@ soup
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product.php:113
+#@ soup
+msgid "banner"
+msgstr ""
+
